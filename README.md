@@ -1,1 +1,1 @@
-# Equinox
+# Elixir
